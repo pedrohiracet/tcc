@@ -1,0 +1,28 @@
+.logo{
+      display: flex;
+      flex-direction: column;
+}
+
+.logo img{
+    width:100px ;
+}
+
+.logo div{
+    font-size: 20px;
+}
+
+.Calçados{
+    color: black;
+}
+
+.Esportes{
+    color: gray;
+}
+
+.Dia{
+    color: red;
+}
+
+nav{
+        flex-direction: column;
+}
